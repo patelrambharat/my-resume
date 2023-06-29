@@ -1,5 +1,5 @@
 # my-resume
 
-![Image](resumeimage.jpg)
+![Image](resume.jpg)
 
 
